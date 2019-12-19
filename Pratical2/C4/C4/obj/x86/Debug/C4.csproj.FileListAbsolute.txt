@@ -1,0 +1,4 @@
+c:\users\yash\documents\visual studio 2010\Projects\C4\C4\bin\Debug\C4.exe
+c:\users\yash\documents\visual studio 2010\Projects\C4\C4\bin\Debug\C4.pdb
+c:\users\yash\documents\visual studio 2010\Projects\C4\C4\obj\x86\Debug\C4.exe
+c:\users\yash\documents\visual studio 2010\Projects\C4\C4\obj\x86\Debug\C4.pdb
